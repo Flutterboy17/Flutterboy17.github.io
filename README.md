@@ -1,7 +1,8 @@
 # NovaBlue
 
-Public pages for NovaBlue apps, such as privacy policies.
+Source of the NovaBlue website: calm, colourful games for everyone.
 
-- Stack Grove: https://flutterboy17.github.io/stack-grove/privacy.html
+- Stack Grove: /stack-grove/ (privacy policy: /stack-grove/privacy.html)
+- AdMob: /app-ads.txt
 
-- AdMob: https://flutterboy17.github.io/app-ads.txt
+Plain HTML and CSS, no build step, no trackers.
